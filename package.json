@@ -9,8 +9,11 @@
     "preview": "astro preview"
   },
   "devDependencies": {
+    "@astrojs/react": "^1.2.2",
     "astro": "^1.0.0",
-    "prettier-plugin-astro": "^0.7.0"
+    "prettier-plugin-astro": "^0.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "dependencies": {
     "@astrojs/netlify": "^1.2.1",
